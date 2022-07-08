@@ -1,0 +1,30 @@
+<a href="https://tv.naver.com/v/27772011" class="media_area" data-da-position="true" data-gdid="PC-THEME-ENTER-RANKING-0[materials][0]" data-clk="tcc_tvc.list1cont1" target="_blank">
+						<div class="media_thumb">
+							<img src="https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Ftvcast.phinf%2F20220705_39%2FUWgyG_1657027019103FLKWh_JPEG%2Fclip_20220705220315_88.jpg%22&amp;type=nf464_260" alt="" width="232" height="130" onerror="this.outerHTML='<span class=\'pm_noimg\'><span class=\'noimg_text\'>이미지 준비중</span></span>'" loading="lazy">
+
+							
+								<span class="thumb_dim"></span>
+								<span class="thumb_bd"></span>
+								<i class="pm_ico_play"><span class="blind">재생</span></i>
+								<span class="theme_runtime"><span class="runtime_bg">재생시간</span><em class="time">3:36</em></span>
+							
+						</div>
+						<div class="media_info">
+							<div class="info_box">
+								
+									<em class="theme_category">TV 예능</em>
+								
+								
+								<strong class="title ">6개월 만에 만나는 사랑스러운 조카💕 눈에서 꿀이 뚝뚝 떨어지는 딘딘😍, MBC 220705 방송</strong>
+								<div class="source_wrap">
+									
+										<span class="date">16시간 전</span>
+										<span class="source">
+											
+										<span class="source_inner">호적메이트</span>
+										</span>
+									
+								</div>
+							</div>
+						</div>
+					</a>

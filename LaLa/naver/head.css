@@ -1,0 +1,171 @@
+ul{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+li{
+    margin:0;
+    padding:0;
+}
+
+header {
+    width: 1130px;
+    height: 160px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ani_fixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.ani_fixed .special_bg {
+    height: 64px;
+    background-color: #fff;
+    border-color: #10ce72;
+}
+
+.group_flex {
+    position: relative;
+    width: 1130px;
+    height: 100%;
+    display: block;
+}
+
+.blind {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+}
+
+.logo {
+    position: absolute;
+    width: 222px;
+    height: 52px;
+    display: block;
+}
+
+.logo_area {
+    position: relative;
+    height: 100%;
+    display: block;
+}
+
+.blind {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+}
+
+.service_area {
+    position: absolute;
+    top: 12px;
+    right: 27px;
+    display: block;
+}
+
+.search_area {
+    position: absolute;
+    top: 50%;
+    left: 268px;
+    margin-top: -28px;
+    display: block;
+}
+
+.search_area .green_window {
+    position: relative;
+    width: 582px;
+    height: 52px;
+    border: 2px solid #19ce60;
+    border-radius: 2px;
+    display: block;
+}
+
+.input_text {
+    width: 444px;
+    height: 24px;
+    padding: 13px 15px;
+    margin: 1px;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    outline: 0;
+    border: 0;
+}
+
+.search_area .button {
+    width: 56px;
+    position: absolute;
+    height: 56px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #19ce60;
+    border-radius: 0 2px 2px 0;
+    cursor: pointer;
+}
+
+.links {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.gnb_inner {
+    position: relative;
+    width: 1130px;
+    padding: 0px, 30px;
+    margin: 0;
+    display: block;
+}
+
+.group_weather {
+    position: absolute;
+    top: 0;
+    right: 30px;
+    bottom: 0;
+    overflow: hidden;
+    max-width: 270px;
+    height: 52;
+    text-align: right;
+    display: block;
+}
+
+.nav_items {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+    border-top: 1px solid #f1f3f6;
+}
+
+.nav_items ul>li {
+    display: inline-block;
+    margin-left: 8px;
+}
+
+.nav_items ul>li:nth-child(-n + 7)>a {
+    /* <ul>하위 7번째 <li>까지 각각 내부의 <a> 태그 접근 */
+    color: #03cf5d;
+}
+
+.nav_items ul>li>a {
+    text-decoration: none;
+    cursor: pointer;
+}
